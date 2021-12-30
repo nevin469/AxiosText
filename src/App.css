@@ -15,8 +15,8 @@
 }
 
 .ce-active-chat-card {
-  background-color: #cabcdc !important;
-  border: 4px solid #cabcdc !important;
+  background-color: #909094 !important;
+  border: 4px solid #909094 !important;
   border-radius: 0px !important;
 }
 
@@ -35,7 +35,7 @@
 
 .ce-primary-button {
   border-radius: 6px !important;
-  background-color: #7554a0 !important;
+  background-color: #1c3dd1 !important;
   position: relative;
   bottom: 1px;
 }
@@ -74,7 +74,7 @@
   height: 100%;
   width: 100%;
   overflow: scroll;
-  background-color: rgb(240, 240, 240);
+  background-color: rgb(233, 227, 227);
 }
 
 .chat-title-container {
@@ -85,7 +85,8 @@
 
 .chat-title {
   color: #003ce2;
-  font-weight: 700;
+  font-family: Verdana, Tahoma, sans-serif;
+  font-weight: 600;
   font-size: 24px;
 }
 
@@ -125,7 +126,6 @@
   object-fit: cover;
   border-radius: 6px;
   height: 30vw;
-  /* width: 30vw; */
   max-height: 200px;
   max-width: 200px;
   min-height: 100px;
